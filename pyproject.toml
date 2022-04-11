@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "fission_sim"
+version = "0.1.0"
+description = "Nuclear fission dynamical simulator using Monte-Carlo methods."
+authors = ["Jonathan Fuzaro Alencar <jfuzaroa@outlook.com>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "~3.10"
+numpy = "^1.22.3"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
