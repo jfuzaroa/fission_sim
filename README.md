@@ -13,7 +13,7 @@ fission ratios of various fission cross-sections. **This is a work in progress**
 
 - Python 3
 - Jupyter
-- Cern's ROOT with PyROOT
+- CERN's ROOT with PyROOT
 - NumPy, SciPy, Matplotlib
 
 ## References & Acknowledgements
